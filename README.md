@@ -1,2 +1,10 @@
-# Exercício-FazerCadastro
-A ideia do exercício é criar cadastro de uma canta em um banco por meio de JavaScript.
+<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
+
+## Tecnologias utilizadas durante o curso
+
+- JavaScript
+
+## Tecnologias utilizadas no projeto
+
+- HTML
+- CSS
